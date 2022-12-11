@@ -1,2 +1,8 @@
 # advent-of-code
-my AoC solutions in Python
+My [AoC](https://adventofcode.com/) solutions in Python
+
+To run:
+```
+cd day1
+python part1.py < input.txt
+```
